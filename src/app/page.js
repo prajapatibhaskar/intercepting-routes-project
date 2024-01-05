@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <section className="py-24">
+    <section className="mt-12">
       <div className="container">
         <h1 className="font-serif text-3xl font-bold text-slate-700">
           Intercepting Routes
